@@ -13,7 +13,6 @@
 <div align="center">
   <img height="200" src="https://i.postimg.cc/8k7v3y9j/opera-d-RKz-JHWWtk.png"  />
 </div>
-https://ibb.co/hmWpYZH
 ###
 
 <p align="center">🎓 Tecnologo em Análise e Desenvolvimento de Sistemas Fatec - Presidente Prudente - FATEC-PP<br>👀 Tenho interesse em: Desenvolvimento Web Full Stack<br>🌱 Estou aprendendo: Next.Js , React.Js, React Native & TypeScript</p>
