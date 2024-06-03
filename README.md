@@ -8,7 +8,6 @@
 <body>
 <h2 align="center">👋 Olá, eu sou o @AndreJunior</h2>
 
-###
 
 <div align="center">
   <img height="200" src="https://i.postimg.cc/8k7v3y9j/opera-d-RKz-JHWWtk.png"  />
