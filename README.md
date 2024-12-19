@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o @AndreJunior
+# 👋 Olá, eu sou o Andre Junior
 
 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 Fatec - Presidente Prudente - FATEC-PP  
