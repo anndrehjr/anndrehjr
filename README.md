@@ -49,7 +49,6 @@ Fatec - Presidente Prudente - FATEC-PP
 ## 📈 Métricas do GitHub
 
 <div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=anndrehjr&show_icons=true&theme=radical" alt="GitHub Stats">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anndrehjr&layout=compact&theme=radical" alt="Top Languages">
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=anndrehjr&theme=dracula" alt="Activity Graph">
   
